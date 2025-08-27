@@ -5,7 +5,7 @@
 **University:** Politecnico di Milano, in collaboration with San Donato Hospital  
 
 ---
-📄 [Download Thesis PDF](./Thesis.pdf)  
+📄 [Download Thesis PDF](./M.Sc.-Thesis.pdf)  
 ---
 
 ### Abstract
