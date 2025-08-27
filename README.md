@@ -5,7 +5,7 @@
 **University:** Politecnico di Milano, in collaboration with San Donato Hospital  
 
 ---
-📄 [Download Thesis PDF](./M.Sc.-Thesis.pdf)  
+📄 [Download Thesis PDF](./2025_07_Hoseinikhah.pdf.pdf)  
 ---
 
 ### Abstract
