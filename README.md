@@ -1,8 +1,8 @@
 # MSc Thesis – Cardiovascular Biomechanics
 
 **Title:** Design of a compliance-controlled chamber hosting an aorta phantom: hyperelastic & LPM modeling analysis  
-**Author:** Ghazaleh Hoseinikhah  
-**University:** University of Milan, in collaboration with Humanitas Research Hospital & Politecnico di Milano  
+**Author:** Seyed Mahdi Hoseinikhah  
+**University:** Politecnico di Milano, in collaboration with San Donato Hospital  
 
 ---
 📄 [Download Thesis PDF](./Thesis.pdf)  
